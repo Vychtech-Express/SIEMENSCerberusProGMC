@@ -3,7 +3,8 @@
 
 ![7205-V2_Plan - копия](https://user-images.githubusercontent.com/104857185/171543881-4e543708-fdce-4141-bce4-7e9f0f161609.jpg)
 ![7205 5 4-V2_Plan](https://user-images.githubusercontent.com/104857185/171544022-b674540c-0bbd-43bc-bcbf-c25a29116c45.jpg)
-
+![Насосная и компрессорные](https://user-images.githubusercontent.com/104857185/171544261-4c532d6e-1d3c-4a05-ba8e-2b2aca1acf58.JPG)
+![Компрессорные](https://user-images.githubusercontent.com/104857185/171544346-5e44b47b-49b2-4dbb-85ba-10ddfd316b3c.JPG)
 
 #### Панель 16 (шлюз, GAP)
 ![IMG_2726](https://user-images.githubusercontent.com/104857185/171537384-c482f8e8-ee0a-4139-be72-2731192d944e.JPG)
