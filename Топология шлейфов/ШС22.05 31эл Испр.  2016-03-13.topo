@@ -1,0 +1,763 @@
+{
+ "__version__": 2, 
+ "topology": {
+  "connection": 1, 
+  "customerText": "read using FDUL221", 
+  "deviceCount": 31, 
+  "devices": [
+   {
+    "address": 42, 
+    "connectedSegment": 255, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isBranchStart", 
+     "isOnLoop"
+    ], 
+    "index": 0, 
+    "measurements": {
+     "158": 2471, 
+     "159": 2641, 
+     "43": 2495, 
+     "44": 2570, 
+     "i_ack_a": 2635, 
+     "i_ack_b": 2464
+    }, 
+    "serial": 1587010185, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 43, 
+    "connectedSegment": 0, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 1, 
+    "measurements": {
+     "158": 2462, 
+     "159": 2630, 
+     "43": 2506, 
+     "44": 2546, 
+     "i_ack_a": 2621, 
+     "i_ack_b": 2473
+    }, 
+    "serial": 3700873866, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 44, 
+    "connectedSegment": 1, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 2, 
+    "measurements": {
+     "158": 2464, 
+     "159": 2624, 
+     "43": 2503, 
+     "44": 2545, 
+     "i_ack_a": 2609, 
+     "i_ack_b": 2456
+    }, 
+    "serial": 160881293, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 45, 
+    "connectedSegment": 2, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 3, 
+    "measurements": {
+     "158": 2473, 
+     "159": 2630, 
+     "43": 2518, 
+     "44": 2556, 
+     "i_ack_a": 2641, 
+     "i_ack_b": 2470
+    }, 
+    "serial": 3532970636, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 46, 
+    "connectedSegment": 3, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 4, 
+    "measurements": {
+     "158": 2464, 
+     "159": 2632, 
+     "43": 2498, 
+     "44": 2542, 
+     "i_ack_a": 2609, 
+     "i_ack_b": 2468
+    }, 
+    "serial": 3482638986, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 47, 
+    "connectedSegment": 4, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 5, 
+    "measurements": {
+     "158": 919, 
+     "159": 924, 
+     "43": 927, 
+     "44": 913, 
+     "i_ack_a": 927, 
+     "i_ack_b": 924
+    }, 
+    "serial": 2662741514, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 48, 
+    "connectedSegment": 5, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 6, 
+    "measurements": {
+     "158": 930, 
+     "159": 939, 
+     "43": 939, 
+     "44": 938, 
+     "i_ack_a": 949, 
+     "i_ack_b": 944
+    }, 
+    "serial": 1840002571, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 49, 
+    "connectedSegment": 6, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 7, 
+    "measurements": {
+     "158": 930, 
+     "159": 944, 
+     "43": 930, 
+     "44": 936, 
+     "i_ack_a": 933, 
+     "i_ack_b": 928
+    }, 
+    "serial": 2007774730, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 50, 
+    "connectedSegment": 7, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 8, 
+    "measurements": {
+     "158": 932, 
+     "159": 927, 
+     "43": 924, 
+     "44": 922, 
+     "i_ack_a": 924, 
+     "i_ack_b": 921
+    }, 
+    "serial": 1957443084, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 51, 
+    "connectedSegment": 8, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 9, 
+    "measurements": {
+     "158": 927, 
+     "159": 944, 
+     "43": 928, 
+     "44": 932, 
+     "i_ack_a": 942, 
+     "i_ack_b": 941
+    }, 
+    "serial": 2778673419, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 52, 
+    "connectedSegment": 9, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 10, 
+    "measurements": {
+     "158": 932, 
+     "159": 933, 
+     "43": 941, 
+     "44": 932, 
+     "i_ack_a": 932, 
+     "i_ack_b": 941
+    }, 
+    "serial": 2730112524, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 53, 
+    "connectedSegment": 10, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 11, 
+    "measurements": {
+     "158": 944, 
+     "159": 949, 
+     "43": 939, 
+     "44": 941, 
+     "i_ack_a": 947, 
+     "i_ack_b": 956
+    }, 
+    "serial": 2377528843, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 54, 
+    "connectedSegment": 11, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 12, 
+    "measurements": {
+     "158": 939, 
+     "159": 936, 
+     "43": 939, 
+     "44": 939, 
+     "i_ack_a": 942, 
+     "i_ack_b": 938
+    }, 
+    "serial": 2092316170, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 55, 
+    "connectedSegment": 12, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 13, 
+    "measurements": {
+     "158": 919, 
+     "159": 925, 
+     "43": 910, 
+     "44": 914, 
+     "i_ack_a": 921, 
+     "i_ack_b": 924
+    }, 
+    "serial": 2444637708, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 56, 
+    "connectedSegment": 13, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 14, 
+    "measurements": {
+     "158": 916, 
+     "159": 925, 
+     "43": 921, 
+     "44": 922, 
+     "i_ack_a": 919, 
+     "i_ack_b": 913
+    }, 
+    "serial": 1619013906, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 57, 
+    "connectedSegment": 14, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 15, 
+    "measurements": {
+     "158": 921, 
+     "159": 919, 
+     "43": 933, 
+     "44": 914, 
+     "i_ack_a": 925, 
+     "i_ack_b": 927
+    }, 
+    "serial": 3347067151, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 58, 
+    "connectedSegment": 15, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 16, 
+    "measurements": {
+     "158": 919, 
+     "159": 918, 
+     "43": 918, 
+     "44": 930, 
+     "i_ack_a": 925, 
+     "i_ack_b": 927
+    }, 
+    "serial": 2661232906, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 59, 
+    "connectedSegment": 16, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 17, 
+    "measurements": {
+     "158": 924, 
+     "159": 932, 
+     "43": 911, 
+     "44": 924, 
+     "i_ack_a": 924, 
+     "i_ack_b": 930
+    }, 
+    "serial": 4286525702, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 60, 
+    "connectedSegment": 17, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 18, 
+    "measurements": {
+     "158": 925, 
+     "159": 928, 
+     "43": 938, 
+     "44": 922, 
+     "i_ack_a": 925, 
+     "i_ack_b": 925
+    }, 
+    "serial": 1048719630, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 61, 
+    "connectedSegment": 18, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 19, 
+    "measurements": {
+     "158": 939, 
+     "159": 955, 
+     "43": 941, 
+     "44": 952, 
+     "i_ack_a": 953, 
+     "i_ack_b": 944
+    }, 
+    "serial": 159396114, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 62, 
+    "connectedSegment": 19, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 20, 
+    "measurements": {
+     "158": 946, 
+     "159": 941, 
+     "43": 939, 
+     "44": 944, 
+     "i_ack_a": 935, 
+     "i_ack_b": 932
+    }, 
+    "serial": 2156015890, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 63, 
+    "connectedSegment": 20, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 21, 
+    "measurements": {
+     "158": 936, 
+     "159": 935, 
+     "43": 942, 
+     "44": 942, 
+     "i_ack_a": 944, 
+     "i_ack_b": 936
+    }, 
+    "serial": 3919393035, 
+    "status": 2, 
+    "status2": 32769, 
+    "status3": 0, 
+    "type": 197695
+   }, 
+   {
+    "address": 64, 
+    "connectedSegment": 21, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 22, 
+    "measurements": {
+     "158": 2657, 
+     "159": 2448, 
+     "43": 2548, 
+     "44": 2499, 
+     "i_ack_a": 2457, 
+     "i_ack_b": 2655
+    }, 
+    "serial": 2341919371, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 65, 
+    "connectedSegment": 22, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 23, 
+    "measurements": {
+     "158": 2658, 
+     "159": 2451, 
+     "43": 2543, 
+     "44": 2498, 
+     "i_ack_a": 2448, 
+     "i_ack_b": 2649
+    }, 
+    "serial": 3063208587, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 66, 
+    "connectedSegment": 23, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 24, 
+    "measurements": {
+     "158": 2660, 
+     "159": 2442, 
+     "43": 2557, 
+     "44": 2509, 
+     "i_ack_a": 2446, 
+     "i_ack_b": 2655
+    }, 
+    "serial": 211278476, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 67, 
+    "connectedSegment": 24, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 25, 
+    "measurements": {
+     "158": 2671, 
+     "159": 2426, 
+     "43": 2538, 
+     "44": 2509, 
+     "i_ack_a": 2445, 
+     "i_ack_b": 2655
+    }, 
+    "serial": 93772429, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 68, 
+    "connectedSegment": 25, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 26, 
+    "measurements": {
+     "158": 2641, 
+     "159": 2436, 
+     "43": 2551, 
+     "44": 2492, 
+     "i_ack_a": 2432, 
+     "i_ack_b": 2652
+    }, 
+    "serial": 563403406, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 69, 
+    "connectedSegment": 26, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 27, 
+    "measurements": {
+     "158": 2680, 
+     "159": 2443, 
+     "43": 2570, 
+     "44": 2506, 
+     "i_ack_a": 2432, 
+     "i_ack_b": 2677
+    }, 
+    "serial": 3851541898, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007984
+   }, 
+   {
+    "address": 70, 
+    "connectedSegment": 27, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 28, 
+    "measurements": {
+     "158": 2679, 
+     "159": 2442, 
+     "43": 2576, 
+     "44": 2501, 
+     "i_ack_a": 2439, 
+     "i_ack_b": 2679
+    }, 
+    "serial": 4187347593, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 71, 
+    "connectedSegment": 28, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 29, 
+    "measurements": {
+     "158": 2662, 
+     "159": 2428, 
+     "43": 2567, 
+     "44": 2489, 
+     "i_ack_a": 2439, 
+     "i_ack_b": 2655
+    }, 
+    "serial": 4170635914, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }, 
+   {
+    "address": 72, 
+    "connectedSegment": 29, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "endOfStub", 
+     "isOnLoop"
+    ], 
+    "index": 30, 
+    "measurements": {
+     "158": 2696, 
+     "159": 2425, 
+     "43": 2574, 
+     "44": 2490, 
+     "i_ack_a": 2439, 
+     "i_ack_b": 2676
+    }, 
+    "serial": 2811681418, 
+    "status": 0, 
+    "status2": 1, 
+    "status3": 0, 
+    "type": 4007985
+   }
+  ], 
+  "endOfLoopIndex": 30, 
+  "end_label": "B", 
+  "errorFlags": [
+   "hasLineSupplyFault"
+  ], 
+  "flags": [
+   "isLoop", 
+   "expectLoop"
+  ], 
+  "measurements": {
+   "10": 0, 
+   "100": 5340, 
+   "101": 5200, 
+   "102": 5278, 
+   "103": 5216, 
+   "11": 32785, 
+   "116": 5854, 
+   "117": 5947, 
+   "118": 5885, 
+   "119": 5932, 
+   "12": 32831, 
+   "140": 0, 
+   "141": 0, 
+   "19": 980, 
+   "20": 65, 
+   "21": 0, 
+   "3": 23309, 
+   "30": 0, 
+   "31": 40, 
+   "32": 43, 
+   "4": 1532, 
+   "42": 0, 
+   "5": 1523, 
+   "6": 0, 
+   "8": 1245, 
+   "9": 903
+  }, 
+  "start_label": "A"
+ }
+}

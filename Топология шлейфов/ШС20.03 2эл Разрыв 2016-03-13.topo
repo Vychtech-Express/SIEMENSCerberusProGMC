@@ -1,0 +1,88 @@
+{
+ "__version__": 2, 
+ "topology": {
+  "connection": 1, 
+  "customerText": "read using FDUL221", 
+  "deviceCount": 2, 
+  "devices": [
+   {
+    "address": 4, 
+    "connectedSegment": 255, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isBranchStart", 
+     "isOnLoop"
+    ], 
+    "index": 0, 
+    "measurements": {
+     "i_ack_a": 2807, 
+     "i_ack_b": 0
+    }, 
+    "serial": 1670962571, 
+    "status": 2049, 
+    "status2": 65536, 
+    "status3": 0, 
+    "type": 4007984
+   }, 
+   {
+    "address": 5, 
+    "connectedSegment": 0, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "endOfStub", 
+     "isOnLoop"
+    ], 
+    "index": 1, 
+    "measurements": {
+     "i_ack_a": 2796, 
+     "i_ack_b": 7
+    }, 
+    "serial": 2409094536, 
+    "status": 32775, 
+    "status2": 17891328, 
+    "status3": 0, 
+    "type": 4007984
+   }
+  ], 
+  "endOfLoopIndex": 255, 
+  "end_label": "B", 
+  "errorFlags": [
+   "hasHighResistorMinus", 
+   "hasLineSupplyFault"
+  ], 
+  "flags": [
+   "expectLoop"
+  ], 
+  "measurements": {
+   "10": 0, 
+   "100": 108, 
+   "101": 124, 
+   "102": 62, 
+   "103": 108, 
+   "11": 32693, 
+   "116": 5823, 
+   "117": 5932, 
+   "118": 5854, 
+   "119": 5932, 
+   "12": 32785, 
+   "140": 0, 
+   "141": 0, 
+   "19": 124, 
+   "20": 35, 
+   "21": 0, 
+   "3": 23254, 
+   "30": 0, 
+   "31": 26, 
+   "32": 34, 
+   "4": 1518, 
+   "42": 0, 
+   "5": 1519, 
+   "6": 0, 
+   "8": 140, 
+   "9": 124
+  }, 
+  "start_label": "A"
+ }
+}

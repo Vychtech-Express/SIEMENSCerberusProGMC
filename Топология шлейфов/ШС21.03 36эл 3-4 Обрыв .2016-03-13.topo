@@ -1,0 +1,120 @@
+{
+ "__version__": 2, 
+ "topology": {
+  "connection": 1, 
+  "customerText": "read using FDUL221", 
+  "deviceCount": 3, 
+  "devices": [
+   {
+    "address": 1, 
+    "connectedSegment": 255, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isBranchStart", 
+     "isOnLoop"
+    ], 
+    "index": 0, 
+    "measurements": {
+     "158": 0, 
+     "159": 2796, 
+     "43": 0, 
+     "44": 0, 
+     "i_ack_a": 2777, 
+     "i_ack_b": 0
+    }, 
+    "serial": 3901873547, 
+    "status": 0, 
+    "status2": 4, 
+    "status3": 0, 
+    "type": 4007984
+   }, 
+   {
+    "address": 3, 
+    "connectedSegment": 0, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "isOnLoop"
+    ], 
+    "index": 1, 
+    "measurements": {
+     "158": 0, 
+     "159": 2747, 
+     "43": 0, 
+     "44": 0, 
+     "i_ack_a": 2752, 
+     "i_ack_b": 0
+    }, 
+    "serial": 2503270797, 
+    "status": 0, 
+    "status2": 4, 
+    "status3": 0, 
+    "type": 3284560
+   }, 
+   {
+    "address": 4, 
+    "connectedSegment": 1, 
+    "control": 512, 
+    "errorFlags": [], 
+    "flags": [
+     "endOfStub", 
+     "isOnLoop"
+    ], 
+    "index": 2, 
+    "measurements": {
+     "158": 6, 
+     "159": 2715, 
+     "43": 0, 
+     "44": 0, 
+     "i_ack_a": 2718, 
+     "i_ack_b": 0
+    }, 
+    "serial": 1369234827, 
+    "status": 0, 
+    "status2": 4, 
+    "status3": 0, 
+    "type": 4007984
+   }
+  ], 
+  "endOfLoopIndex": 255, 
+  "end_label": "B", 
+  "errorFlags": [
+   "hasHighResistorMinus", 
+   "hasHighResistorPlus", 
+   "hasLineSupplyFault"
+  ], 
+  "flags": [
+   "expectLoop"
+  ], 
+  "measurements": {
+   "10": 0, 
+   "100": 108, 
+   "101": 124, 
+   "102": 108, 
+   "103": 108, 
+   "11": 32758, 
+   "116": 5823, 
+   "117": 5932, 
+   "118": 5870, 
+   "119": 5932, 
+   "12": 32794, 
+   "140": 0, 
+   "141": 0, 
+   "19": 1027, 
+   "20": 40, 
+   "21": 0, 
+   "3": 23291, 
+   "30": 0, 
+   "31": 28, 
+   "32": 40, 
+   "4": 1502, 
+   "42": 0, 
+   "5": 1514, 
+   "6": 0, 
+   "8": 1370, 
+   "9": 980
+  }, 
+  "start_label": "A"
+ }
+}
