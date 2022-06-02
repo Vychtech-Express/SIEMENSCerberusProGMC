@@ -34,7 +34,7 @@
 ![Схема сети C-WEB](https://user-images.githubusercontent.com/104857185/171630002-21a06402-22ff-4404-8288-f750662044a4.JPG)
 ![Схема сети C-WEB и SafedLink](https://user-images.githubusercontent.com/104857185/171536790-5f6772e3-4cc1-4c89-a544-cff10c3aa81a.jpg)
 
-#### Адреса панелей
+#### Адреса сетевых плат на ММ-ке
 ![Настройка сетевой платы для конфигуратора](https://user-images.githubusercontent.com/104857185/171536396-04cfb9a4-3505-46ba-a031-703e29f62c0b.png)
 
 #### Статические маршуры между панелями и ММ-кой
