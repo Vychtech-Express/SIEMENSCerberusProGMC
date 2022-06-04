@@ -13,13 +13,15 @@
 ![7205 5 4-V2_Plan](https://user-images.githubusercontent.com/104857185/171544022-b674540c-0bbd-43bc-bcbf-c25a29116c45.jpg)
 ![Компрессорные](https://user-images.githubusercontent.com/104857185/171544346-5e44b47b-49b2-4dbb-85ba-10ddfd316b3c.JPG)
 
-#### Диспетчерская (пом. 2200), Панель 16 (шлюз, GAP)
+###### Диспетчерская (пом. 2200), Панель 16 (шлюз, GAP)
+
 ![IMG_2726](https://user-images.githubusercontent.com/104857185/171537384-c482f8e8-ee0a-4139-be72-2731192d944e.JPG)
 ![IMG_4644](https://user-images.githubusercontent.com/104857185/171537639-966bbdd7-f238-458b-91cf-18e4e560d9d3.JPG)
 ![IMG_4838](https://user-images.githubusercontent.com/104857185/171537809-222a04d8-c10b-4a70-8f21-f0596526ad6e.JPG)
 
 
-#### Версия конфигуратора
+###### Версия конфигуратора
+
 ![Версия конфигуратора v5](https://user-images.githubusercontent.com/104857185/171536166-94498381-1c9f-4b21-b5d8-3bd6a90bf7b4.png)
 
 Панели и ММ-ка ведут обмен по **BACNet**-у. Ветки сети (см. схему сети C-WEB и SafedLink) с панелями то одна, то другая попеременно отваливаются. В связи с этим надо внести следующие изменения:
@@ -30,20 +32,25 @@
  - заменить сущ. сервисный USB-вый ключ заменить на объектовый,
  - переделать ММ-ку с **BACNet**-а на **OPC-сервер**
 
-#### Схема сети C-WEB и SafedLink
+###### Схема сети C-WEB и SafedLink
+
 ![Схема сети C-WEB](https://user-images.githubusercontent.com/104857185/171630002-21a06402-22ff-4404-8288-f750662044a4.JPG)
 ![Схема сети C-WEB и SafedLink](https://user-images.githubusercontent.com/104857185/171536790-5f6772e3-4cc1-4c89-a544-cff10c3aa81a.jpg)
 
-#### Адреса 2-х сетевых плат на ММ-ке (слева - конфигуратор, справа - ММ-ка (левая - в Интернет через локальную подсеть, правая - панели)
+###### Адреса 2-х сетевых плат на ММ-ке (слева - конфигуратор, справа - ММ-ка (левая - в Интернет через локальную подсеть, правая - панели)
+
 ![Настройка сетевой платы для конфигуратора](https://user-images.githubusercontent.com/104857185/171536396-04cfb9a4-3505-46ba-a031-703e29f62c0b.png)
 
-#### Статические маршуры между панелями и ММ-кой
+###### Статические маршуры между панелями и ММ-кой
+
 ![Добавление статического маршрута](https://user-images.githubusercontent.com/104857185/171542264-712bcdad-d6c3-49e7-99fc-c9a0c84540d2.png)
 
-#### SCADA-система DMS8000 (ММ-ка)
+###### SCADA-система DMS8000 (ММ-ка)
+
+![IMG_20160816_112309](https://user-images.githubusercontent.com/104857185/172000116-46ac80d0-66b7-4bb0-9fba-a1d3011dfd25.jpg)
 ![Версия Composer-а](https://user-images.githubusercontent.com/104857185/171541990-c5dfd4db-58a9-4f4c-8426-c8e2f8cee2c7.png)
 ![Версия DMS8000 с данными о Hotfix-ах](https://user-images.githubusercontent.com/104857185/171542050-9e56e80a-f688-4796-b051-77f86d28af51.png)
 ![Версия MM8000](https://user-images.githubusercontent.com/104857185/171542084-919d4cbc-3a68-4d4c-befd-4296c89d606e.png)
 
-#### Настройка BACNet в компосере ММ-ки
+###### Настройка BACNet в компосере ММ-ки
 ![Настройки BACnet в Composer-е](https://user-images.githubusercontent.com/104857185/171542161-afc7b7ef-1e89-421a-bb9b-b8a58fd44b8a.png)
