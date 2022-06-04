@@ -39,6 +39,7 @@
 
 ###### Адреса 2-х сетевых плат на ММ-ке (слева - конфигуратор, справа - ММ-ка (левая - в Интернет через локальную подсеть, правая - панели)
 
+![IMG_20160816_112309](https://user-images.githubusercontent.com/104857185/172000116-46ac80d0-66b7-4bb0-9fba-a1d3011dfd25.jpg)
 ![Настройка сетевой платы для конфигуратора](https://user-images.githubusercontent.com/104857185/171536396-04cfb9a4-3505-46ba-a031-703e29f62c0b.png)
 
 ###### Статические маршуры между панелями и ММ-кой
@@ -47,7 +48,6 @@
 
 ###### SCADA-система DMS8000 (ММ-ка)
 
-![IMG_20160816_112309](https://user-images.githubusercontent.com/104857185/172000116-46ac80d0-66b7-4bb0-9fba-a1d3011dfd25.jpg)
 ![Версия Composer-а](https://user-images.githubusercontent.com/104857185/171541990-c5dfd4db-58a9-4f4c-8426-c8e2f8cee2c7.png)
 ![Версия DMS8000 с данными о Hotfix-ах](https://user-images.githubusercontent.com/104857185/171542050-9e56e80a-f688-4796-b051-77f86d28af51.png)
 ![Версия MM8000](https://user-images.githubusercontent.com/104857185/171542084-919d4cbc-3a68-4d4c-befd-4296c89d606e.png)
