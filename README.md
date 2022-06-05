@@ -47,7 +47,7 @@
 
 ![Добавление статического маршрута](https://user-images.githubusercontent.com/104857185/171542264-712bcdad-d6c3-49e7-99fc-c9a0c84540d2.png)
 
-###### SCADA-система DMS8000 (старый нерабочий проект в ММ-ке)
+###### SCADA-система DMS8000 (предыдущий нерабочий проект в ММ-ке)
 
 ![Версия Composer-а](https://user-images.githubusercontent.com/104857185/171541990-c5dfd4db-58a9-4f4c-8426-c8e2f8cee2c7.png)
 ![Версия DMS8000 с данными о Hotfix-ах](https://user-images.githubusercontent.com/104857185/171542050-9e56e80a-f688-4796-b051-77f86d28af51.png)
