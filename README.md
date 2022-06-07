@@ -61,6 +61,8 @@ https://www.google.com/maps/place/The+Main+Media+Centre/@43.4143699,39.9490864,8
 
 ![Настройки BACnet в Composer-е](https://user-images.githubusercontent.com/104857185/171542161-afc7b7ef-1e89-421a-bb9b-b8a58fd44b8a.png)
 
+Указания по считыванию топологии, конфигурированию, рисованию проекта в ММ-ке см. в https://github.com/tsv19su254052/SIEMENSCerberusProAirPortPlatov
+
 ----
 Общие замечания:
 
